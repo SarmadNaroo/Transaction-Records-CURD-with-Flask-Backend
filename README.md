@@ -1,8 +1,7 @@
 # Transaction-Records-CURD-with-Flask-Backend
-
-# ADD TRANSACTION
-# DELETE TRANSACTION
-# EDIT TRANSACTION
+  ADD TRANSACTION
+  DELETE TRANSACTION
+  EDIT TRANSACTION
 
 # Transaction Records
 ![image](https://github.com/SarmadNaroo/Transaction-Records-CURD-with-Flask-Backend/assets/87594636/1fd13f43-7de9-4e73-bf53-770c6275ba3d)
